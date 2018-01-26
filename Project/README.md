@@ -17,5 +17,5 @@ This repository contains data files and the code developed using pyspark for pre
 ## Tools/Languages:
 Pyspark,Mllib,Jupyter,pandas,python
 
-# For more details of the project:
+## For more details of the project:
 Please check projectReport.pdf
