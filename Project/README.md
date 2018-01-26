@@ -1,5 +1,5 @@
 
-## This Project is based on drivendata competetion https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
+## This project is based on the drivendata competetion challenge https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/.
 ## Project Description:
 Using environmental data collected by various U.S. Federal Government agencies—from the Centers for Disease Control and Prevention to the National Oceanic and Atmospheric Administration in the U.S. Department of Commerce—can you predict the number of dengue fever cases reported each week in San Juan, Puerto Rico and Iquitos, Peru?
 ## DataSet
